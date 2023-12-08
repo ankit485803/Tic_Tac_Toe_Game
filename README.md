@@ -7,10 +7,10 @@ Hey there, fellow coder! 👋 Welcome to the repository of my latest coding esca
 In the midst of my IIT Patna classes and academic pursuits, I embarked on a two-week coding adventure to bring this classic game to life. Built entirely with the trio of web development magic - HTML, CSS, and JavaScript, this project is more than just a grid of Xs and Os; it's a testament to creativity and coding finesse.
 
 # Features at a Glance 🌟
-. Dual Player Mode: Challenge a friend with the timeless choice between 'zero' and 'cross'.
-. Victory Conditions: Triumph by aligning three symbols either diagonally, column-wise, or row-wise. 🏆
-. Seamless Transitions: Enjoy the continuous gaming experience as the game smoothly transitions to a replay option upon completion.
-. Web Development Magic: The entire game is based on the trio of web development technologies – HTML for structure, CSS for styling, and JavaScript for the interactive magic.
+(a) Dual Player Mode: Challenge a friend with the timeless choice between 'zero' and 'cross'.
+(b) Victory Conditions: Triumph by aligning three symbols either diagonally, column-wise, or row-wise. 🏆
+(c) Seamless Transitions: Enjoy the continuous gaming experience as the game smoothly transitions to a replay option upon completion.
+(d) Web Development Magic: The entire game is based on the trio of web development technologies – HTML for structure, CSS for styling, and JavaScript for the interactive magic.
 
 # Tech Stack: 
 HTML, CSS, JavaScript 🌐
